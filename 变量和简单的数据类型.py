@@ -55,3 +55,5 @@ print(squares)
 
 pingfang=[val**2 for val in range(1,11)]
 print(pingfang)
+
+#asads
